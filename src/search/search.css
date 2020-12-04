@@ -1,0 +1,16 @@
+.search{
+    width: 100%;
+    background-image: url('search.png');
+    font-size: 50px;
+    box-sizing: border-box;
+    background-size: 40px;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+}
+
+.select{
+    width: 200px;
+    font-size: 30px;
+    position: absolute;
+}
+
